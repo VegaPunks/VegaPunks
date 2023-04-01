@@ -47,7 +47,10 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me
+<a href="https://vk.com/id626891453">
+<img src="https://camo.githubusercontent.com/78d514c37e5144e53330ecdd018b321d5aee78bc06282a1226f75912327c2897/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766b2d3436383043322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d766b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/vk-4680C2.svg?&amp;style=for-the-badge&amp;logo=vk&amp;logoColor=white" alt="vk" style="max-width: 100%;">
+</a>
 <a href="https://github.com/https://github.com/VegaPunks" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
