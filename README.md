@@ -33,7 +33,8 @@
 <!--<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/439290/react.svg" alt="React native" height="50" /></a>-->
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>           
-<a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>    
+<a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>
+<a href="https://gulpjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack" /></a>    
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a> 
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
@@ -41,7 +42,8 @@
 <a href="https://sliv.qa/threads/udemy-sql-inekcii-veb-ataki-sqli-sql-injections-unlocked-sqli-web-attacks.240953/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" height="50" /></a>
 <a href="https://yarnpkg.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /></a>
-<a href="#" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" height="50" width="50" alt="three" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" alt="threejs" /></a>
+  
 
 
 </div>  
